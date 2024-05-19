@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="388" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="288" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xc0; propos de CaftanShop&#xa;Chez CaftanShop, nous avons une passion pour les caftans et nous sommes fiers d&apos;offrir une exp&#xe9;rience unique de location de caftans pour toutes les occasions sp&#xe9;ciales de nos clients. Notre boutique a &#xe9;t&#xe9; fond&#xe9;e avec l&apos;objectif de fournir des caftans de haute qualit&#xe9; et un service client&#xe8;le exceptionnel &#xe0; ceux qui recherchent une tenue &#xe9;l&#xe9;gante et raffin&#xe9;e. &#xa;Notre Histoire  CaftanShop a &#xe9;t&#xe9; fond&#xe9;e en 2022. En tant que passionn&#xe9;(e) de mode et de culture, on a eu l&apos;id&#xe9;e de cr&#xe9;er une boutique de location de caftans apr&#xe8;s avoir constat&#xe9; la demande croissante pour ces magnifiques v&#xea;tements traditionnels. Depuis lors, CaftanShop s&apos;est engag&#xe9;e &#xe0; offrir une s&#xe9;lection exceptionnelle de caftans et un service personnalis&#xe9; &#xe0; chaque client. &#xa;&#xa;Notre Mission  &#xa;Notre mission chez CaftanShop est de rendre chaque client(e) exceptionnel(le). Nous nous effor&#xe7;ons de fournir des caftans de qualit&#xe9; sup&#xe9;rieure, des conseils personnalis&#xe9;s et un service client&#xe8;le exceptionnel pour garantir une exp&#xe9;rience de location sans stress et m&#xe9;morable. Nous croyons en la c&#xe9;l&#xe9;bration de la beaut&#xe9; et de la diversit&#xe9; culturelle &#xe0; travers nos magnifiques collections de caftans. &#xa;&#xa;Notre Engagement  &#xa;Chez CaftanShop, nous nous engageons &#xe0; :      &#xa;  Offrir une s&#xe9;lection vari&#xe9;e de caftans de haute qualit&#xe9; pour tous les go&#xfb;ts et toutes les occasions.   &#xa;  Fournir un service client&#xe8;le exceptionnel et des conseils personnalis&#xe9;s &#xe0; chaque &#xe9;tape du processus de location.   &#xa;  Garantir la satisfaction de nos clients en assurant la qualit&#xe9; et la propret&#xe9; de chaque caftan.   &#xa;  Promouvoir la diversit&#xe9; culturelle en c&#xe9;l&#xe9;brant la beaut&#xe9; et l&apos;histoire des caftans traditionnels.&#xa;&#xa;Contactez-nous  &#xa;Nous sommes l&#xe0; pour vous aider &#xe0; trouver le caftan parfait pour votre prochaine occasion sp&#xe9;ciale. N&apos;h&#xe9;sitez pas &#xe0; nous contacter pour toute question, demande de renseignements ou pour planifier votre visite &#xe0; notre boutique.     &#xa;                                    E-mail : caftanshop@gmail.com     T&#xe9;l&#xe9;phone : 0643754655      &#xa;&#xa;Suivez-nous sur les r&#xe9;seaux sociaux : &#xa;                                    @caftanshop.1 &#xa;Chez CaftanShop, nous sommes impatients de vous aider &#xe0; trouver le caftan de vos r&#xea;ves !"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
